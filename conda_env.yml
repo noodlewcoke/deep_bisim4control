@@ -2,6 +2,7 @@ name: dbc
 channels:
   - defaults
 dependencies:
+  - pip
   - python=3.7
   - pytorch
   - torchvision
